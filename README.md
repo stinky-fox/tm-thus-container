@@ -6,7 +6,7 @@ Container is Alpine Linux based with the jq as an additional tool that can help 
 
 THUS examples can be found in the original repo - https://github.com/trendmicro/thus/blob/master/doc/example.md
 
-# Run
+# Usage
 
 THUS require to have 2 config files under ~/.thus directory - **credentials** and **config**. You should create them on your host system prior the container deployment. Alternatively you may run thus --config inside the container. 
 
@@ -35,4 +35,4 @@ To access the container and have auto-completion capabilities please run **bash*
 # Disclaimer
 
 This repository has no any relations to Trend Micro company. 
-Maintained and updated during the maintainers free hours. 
+Updated and maintained by a private person.
