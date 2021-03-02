@@ -18,7 +18,6 @@ LABEL maintainer="stinky-fox" \
       org.label-schema.schema-version="1.0" \
       org.label-schema.vendor="stinky-fox" \
       org.label-schema.name="THUS CLI" \
-      org.label-schema.license="no license" \
       org.label-schema.description="The THUS CLI is being used to manage Cloud One environment." \
       org.label-schema.vcs-url="https://github.com/stinky-fox/tm-thus-container.git" \
       org.label-schema.docker.cmd="docker run -d -v /path/to/config:/root/.thus/config -v /path/to/credentials:/root/.thus/credentials puffago/tm-thus-container:latest"
